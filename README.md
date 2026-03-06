@@ -143,7 +143,7 @@ The following image shows an example drawing produced by the **Smart CNC Automat
 <p align="center">
   <img src="images/output.jpg.jpeg" width="600">
 </p>
----
+
 
 ## CNC Machine Control
 The generated G-code is executed using a **GRBL-based CNC control system**.
