@@ -141,7 +141,7 @@ The system will automatically process the image and generate CNC G-code.
 The following image shows an example drawing produced by the **Smart CNC Automated Pen Plotter** using the shading mode.
 
 <p align="center">
-  <img src="images/output.jpg" width="600">
+  <img src="images/output.jpg.jpeg" width="600">
 </p>
 ---
 
