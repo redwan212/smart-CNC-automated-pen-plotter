@@ -67,7 +67,9 @@ This project uses the following technologies:
 ---
 
 ## Project Structure
+```
 smart-cnc-automated-pen-plotter │ ├── GUI.py                # Graphical user interface ├── ftest2.py             # Image processing + G-code generation ├── README.md             # Project documentation ├── requirements.txt      # Python dependencies │ └── images └── cnc_machine.jpg   # CNC machine photo
+```
 ---
 
 ## Installation
@@ -175,7 +177,7 @@ Possible future enhancements for this project include:
 ## Contributors
 
 - **Md. Redwan Hossain Khan** — Project Lead, Software Development, Mechanical Design and System Integration  
-- **Md. Tahasinur Rahman** — Hardware Assembly and Mechanical Setup (@Tahasinur)
+- **Md. Tahasinur Rahman** — Hardware Assembly and Mechanical Setup ([GitHub](https://github.com/Tahasinur))
 ---
 
 ## License
